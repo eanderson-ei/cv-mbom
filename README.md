@@ -1,4 +1,4 @@
- Note: use [mknotebooks](https://github.com/greenape/mknotebooks) to integrate notebooks with MkDocs, or download final notebook as markdown file (note that output cells will be treated as their own code block).
+Note: use [mknotebooks](https://github.com/greenape/mknotebooks) to integrate notebooks with MkDocs, or download final notebook as markdown file (note that output cells will be treated as their own code block).
 
 ## Research Questions
 
@@ -61,4 +61,5 @@ The crop acreage fallowing targets are as shown in Table 1.
 | SE   | 38.76               | 16.15 | 124.03                         | 0.65                           | 9.69            |
 | KR   | 88.50               | 54.91 | 42.64                          | 3.23                           | 11.63           |
 
-*Thousands of acres
+*in thousands of acres*
+
