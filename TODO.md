@@ -9,7 +9,7 @@
   - [ ] develop basic visuals to interrogate results for accuracy, completeness
   - [ ] improve documentation within notebook
 
-- [ ] Create optimized-outcomes notebook
+- [x] Create optimized-outcomes notebook
 
 - [ ] Develop visualizations for report in viz notebook (should work regionally or as aggregated)
 
