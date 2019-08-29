@@ -42,3 +42,4 @@
 7. document code as supplements to report
 8. moonshot: deploy interactive dashboard with user weights and responsive map output
 
+https://www.youtube.com/watch?v=h5sy0z2BUTo
