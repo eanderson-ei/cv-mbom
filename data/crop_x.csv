@@ -1,10 +1,10 @@
-﻿Crop,Crop_PPIC
+Crop,Crop_PPIC
 AlfalfaandAlfalfaMixtures,alfalfa-pasture
 Almonds,trees-vines
 Apples,veg-fruits
-Avocados,veg-fruits
-Beans(Dry),field-crops-grains
-BushBerries,trees-vines
+Avocados,trees-vines
+Beans(Dry),veg-fruits
+BushBerries,veg-fruits
 Carrots,veg-fruits
 Cherries,trees-vines
 Citrus,trees-vines
@@ -18,7 +18,7 @@ Kiwis,trees-vines
 Lettuce/LeafyGreens,veg-fruits
 "Melons,SquashandCucumbers",veg-fruits
 MiscellaneousDeciduous,trees-vines
-MiscellaneousGrainandHay,alfalfa-pasture
+MiscellaneousGrainandHay,field-crops-grains
 MiscellaneousGrasses,alfalfa-pasture
 MiscellaneousSubtropicalFruits,trees-vines
 MiscellaneousTruckCrops,veg-fruits
