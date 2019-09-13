@@ -1,40 +1,42 @@
 Crop,Crop_PPIC
-AlfalfaandAlfalfaMixtures,alfalfa-pasture
+Alfalfa and Alfalfa Mixtures,alfalfa-pasture
 Almonds,trees-vines
 Apples,veg-fruits
 Avocados,trees-vines
-Beans(Dry),veg-fruits
-BushBerries,veg-fruits
+Beans (Dry),veg-fruits
+Bush Berries,veg-fruits
 Carrots,veg-fruits
 Cherries,trees-vines
 Citrus,trees-vines
-ColeCrops,veg-fruits
-"Corn,SorghumandSudan",corn
+Cole Crops,veg-fruits
+"Corn, Sorghum and Sudan",corn
 Cotton,field-crops-grains
-"Flowers,NurseryandChristmasTreeFarms",veg-fruits
+"Flowers, Nursery and Christmas Tree Farms",veg-fruits
 Grapes,trees-vines
 Idle,#N/A
 Kiwis,trees-vines
-Lettuce/LeafyGreens,veg-fruits
-"Melons,SquashandCucumbers",veg-fruits
-MiscellaneousDeciduous,trees-vines
-MiscellaneousGrainandHay,field-crops-grains
-MiscellaneousGrasses,alfalfa-pasture
-MiscellaneousSubtropicalFruits,trees-vines
-MiscellaneousTruckCrops,veg-fruits
-MixedPasture,alfalfa-pasture
+Lettuce/Leafy Greens,veg-fruits
+"Melons, Squash and Cucumbers",veg-fruits
+Miscellaneous Deciduous,trees-vines
+Miscellaneous Field Crops,
+Miscellaneous Grain and Hay,field-crops-grains
+Miscellaneous Grasses,alfalfa-pasture
+Miscellaneous Subtropical Fruits,trees-vines
+Miscellaneous Truck Crops,veg-fruits
+Mixed Pasture,alfalfa-pasture
 Olives,trees-vines
-OnionsandGarlic,veg-fruits
+Onions and Garlic,veg-fruits
 Peaches/Nectarines,trees-vines
 Pears,trees-vines
 Peppers,veg-fruits
 Pistachios,trees-vines
-"Plums,PrunesandApricots",trees-vines
+"Plums, Prunes and Apricots",trees-vines
 Pomegranates,trees-vines
-PotatoesandSweetPotatoes,veg-fruits
+Potatoes and Sweet Potatoes,veg-fruits
+Rice,field-crops-grains
 Safflower,field-crops-grains
 Strawberries,veg-fruits
 Tomatoes,veg-fruits
 Walnuts,trees-vines
 Wheat,field-crops-grains
-YoungPerennials,trees-vines
+Young Perennials,trees-vines
